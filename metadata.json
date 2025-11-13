@@ -1,0 +1,7 @@
+{
+  "name": "WombTrack Pregnancy Health App",
+  "description": "A comprehensive pregnancy health app to track womb circumference, manage medical appointments and reports, and monitor key health parameters for a healthy pregnancy journey.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
